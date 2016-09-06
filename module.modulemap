@@ -1,5 +1,5 @@
 module CGumbo [system] {
-    header "/usr/local/include/gumbo.h"
+    header "cgumbo.h"
     link "gumbo"
     export *
 }
